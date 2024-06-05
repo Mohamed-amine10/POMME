@@ -1,0 +1,47 @@
+body{
+    padding:0;
+    background-color: #DDEEAA;
+    margin: 0 auto;
+    font-family:'Pt Sans', sans;
+}
+
+header{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+}
+
+nav{
+    display:flex ;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgb(136, 218, 60);
+    }
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+#container{
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+    height: auto;
+}
+
+footer{
+    margin-left: 80%;
+    font-family: sans-serif;
+    color: #6c8b0f;
+}
+
+#titre{
+    padding-left: 0%;
+}
+
+.premier{
+    font-size: 25px;
+}
